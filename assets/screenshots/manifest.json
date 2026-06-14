@@ -1,0 +1,130 @@
+[
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 1,
+    "file": "en-us-app_ipad_pro_3gen_129-1.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 2,
+    "file": "en-us-app_ipad_pro_3gen_129-2.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 3,
+    "file": "en-us-app_ipad_pro_3gen_129-3.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 4,
+    "file": "en-us-app_ipad_pro_3gen_129-4.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPHONE_67",
+    "index": 1,
+    "file": "en-us-app_iphone_67-1.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPHONE_67",
+    "index": 2,
+    "file": "en-us-app_iphone_67-2.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPHONE_67",
+    "index": 3,
+    "file": "en-us-app_iphone_67-3.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "en-US",
+    "displayType": "APP_IPHONE_67",
+    "index": 4,
+    "file": "en-us-app_iphone_67-4.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 1,
+    "file": "de-de-app_ipad_pro_3gen_129-1.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 2,
+    "file": "de-de-app_ipad_pro_3gen_129-2.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 3,
+    "file": "de-de-app_ipad_pro_3gen_129-3.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPAD_PRO_3GEN_129",
+    "index": 4,
+    "file": "de-de-app_ipad_pro_3gen_129-4.png",
+    "width": 2064,
+    "height": 2752
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPHONE_67",
+    "index": 1,
+    "file": "de-de-app_iphone_67-1.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPHONE_67",
+    "index": 2,
+    "file": "de-de-app_iphone_67-2.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPHONE_67",
+    "index": 3,
+    "file": "de-de-app_iphone_67-3.png",
+    "width": 1320,
+    "height": 2868
+  },
+  {
+    "locale": "de-DE",
+    "displayType": "APP_IPHONE_67",
+    "index": 4,
+    "file": "de-de-app_iphone_67-4.png",
+    "width": 1320,
+    "height": 2868
+  }
+]
