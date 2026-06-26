@@ -1,130 +1,26 @@
 [
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 1,
-    "file": "en-us-app_ipad_pro_3gen_129-1.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 2,
-    "file": "en-us-app_ipad_pro_3gen_129-2.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 3,
-    "file": "en-us-app_ipad_pro_3gen_129-3.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 4,
-    "file": "en-us-app_ipad_pro_3gen_129-4.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPHONE_67",
-    "index": 1,
-    "file": "en-us-app_iphone_67-1.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPHONE_67",
-    "index": 2,
-    "file": "en-us-app_iphone_67-2.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPHONE_67",
-    "index": 3,
-    "file": "en-us-app_iphone_67-3.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "en-US",
-    "displayType": "APP_IPHONE_67",
-    "index": 4,
-    "file": "en-us-app_iphone_67-4.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 1,
-    "file": "de-de-app_ipad_pro_3gen_129-1.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 2,
-    "file": "de-de-app_ipad_pro_3gen_129-2.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 3,
-    "file": "de-de-app_ipad_pro_3gen_129-3.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPAD_PRO_3GEN_129",
-    "index": 4,
-    "file": "de-de-app_ipad_pro_3gen_129-4.png",
-    "width": 2064,
-    "height": 2752
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPHONE_67",
-    "index": 1,
-    "file": "de-de-app_iphone_67-1.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPHONE_67",
-    "index": 2,
-    "file": "de-de-app_iphone_67-2.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPHONE_67",
-    "index": 3,
-    "file": "de-de-app_iphone_67-3.png",
-    "width": 1320,
-    "height": 2868
-  },
-  {
-    "locale": "de-DE",
-    "displayType": "APP_IPHONE_67",
-    "index": 4,
-    "file": "de-de-app_iphone_67-4.png",
-    "width": 1320,
-    "height": 2868
-  }
+  {"locale":"de-DE","device":"iPhone 17 Pro Max","index":1,"file":"de-de-iphone-17-01.png","width":1320,"height":2868},
+  {"locale":"de-DE","device":"iPhone 17 Pro Max","index":2,"file":"de-de-iphone-17-02.png","width":1320,"height":2868},
+  {"locale":"de-DE","device":"iPhone 17 Pro Max","index":3,"file":"de-de-iphone-17-03.png","width":1320,"height":2868},
+  {"locale":"de-DE","device":"iPhone 17 Pro Max","index":4,"file":"de-de-iphone-17-04.png","width":1320,"height":2868},
+  {"locale":"de-DE","device":"iPhone 17 Pro Max","index":5,"file":"de-de-iphone-17-05.png","width":1320,"height":2868},
+  {"locale":"de-DE","device":"iPhone 17 Pro Max","index":6,"file":"de-de-iphone-17-06.png","width":1320,"height":2868},
+  {"locale":"de-DE","device":"iPad Pro 13-inch","index":1,"file":"de-de-ipad-pro-13-01.png","width":2064,"height":2752},
+  {"locale":"de-DE","device":"iPad Pro 13-inch","index":2,"file":"de-de-ipad-pro-13-02.png","width":2064,"height":2752},
+  {"locale":"de-DE","device":"iPad Pro 13-inch","index":3,"file":"de-de-ipad-pro-13-03.png","width":2064,"height":2752},
+  {"locale":"de-DE","device":"iPad Pro 13-inch","index":4,"file":"de-de-ipad-pro-13-04.png","width":2064,"height":2752},
+  {"locale":"de-DE","device":"iPad Pro 13-inch","index":5,"file":"de-de-ipad-pro-13-05.png","width":2064,"height":2752},
+  {"locale":"de-DE","device":"iPad Pro 13-inch","index":6,"file":"de-de-ipad-pro-13-06.png","width":2064,"height":2752},
+  {"locale":"en-US","device":"iPhone 17 Pro Max","index":1,"file":"en-us-iphone-17-01.png","width":1320,"height":2868},
+  {"locale":"en-US","device":"iPhone 17 Pro Max","index":2,"file":"en-us-iphone-17-02.png","width":1320,"height":2868},
+  {"locale":"en-US","device":"iPhone 17 Pro Max","index":3,"file":"en-us-iphone-17-03.png","width":1320,"height":2868},
+  {"locale":"en-US","device":"iPhone 17 Pro Max","index":4,"file":"en-us-iphone-17-04.png","width":1320,"height":2868},
+  {"locale":"en-US","device":"iPhone 17 Pro Max","index":5,"file":"en-us-iphone-17-05.png","width":1320,"height":2868},
+  {"locale":"en-US","device":"iPhone 17 Pro Max","index":6,"file":"en-us-iphone-17-06.png","width":1320,"height":2868},
+  {"locale":"en-US","device":"iPad Pro 13-inch","index":1,"file":"en-us-ipad-pro-13-01.png","width":2064,"height":2752},
+  {"locale":"en-US","device":"iPad Pro 13-inch","index":2,"file":"en-us-ipad-pro-13-02.png","width":2064,"height":2752},
+  {"locale":"en-US","device":"iPad Pro 13-inch","index":3,"file":"en-us-ipad-pro-13-03.png","width":2064,"height":2752},
+  {"locale":"en-US","device":"iPad Pro 13-inch","index":4,"file":"en-us-ipad-pro-13-04.png","width":2064,"height":2752},
+  {"locale":"en-US","device":"iPad Pro 13-inch","index":5,"file":"en-us-ipad-pro-13-05.png","width":2064,"height":2752},
+  {"locale":"en-US","device":"iPad Pro 13-inch","index":6,"file":"en-us-ipad-pro-13-06.png","width":2064,"height":2752}
 ]
