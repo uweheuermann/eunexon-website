@@ -245,6 +245,28 @@ h3 {
     box-shadow: 0 14px 36px rgba(27, 57, 75, 0.16);
 }
 
+.app-card-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+
+.store-panel {
+    display: flex;
+    padding: 24px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+    box-shadow: 0 12px 45px rgba(27, 57, 75, 0.06);
+}
+
+.store-panel .facts {
+    margin: 0;
+}
+
 .screenshot-gallery {
     display: grid;
     padding: 8px 2px 28px;
@@ -387,6 +409,11 @@ h3 {
 
     .app-card {
         grid-template-columns: 84px 1fr;
+    }
+
+    .store-panel {
+        align-items: flex-start;
+        flex-direction: column;
     }
 
     .screenshot-gallery {

@@ -11,9 +11,8 @@ Datenbank oder JavaScript.
 2. Sicherstellen, dass `support@eunexon.com` als Postfach oder Weiterleitung
    existiert.
 3. Nach Veröffentlichung alle Links über HTTPS testen.
-4. Sobald ColorShapeCode im App Store verfügbar ist, den Platzhalter
-   "Bald im App Store" in `apps/colorshapecode/index.html` durch den echten
-   App-Store-Link ersetzen.
+4. Nach Veröffentlichung alle App-Store-Links prüfen:
+   `https://apps.apple.com/de/app/colorshapecode/id6773065302`
 
 ## Veröffentlichung über GitHub Pages
 
