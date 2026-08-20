@@ -459,3 +459,23 @@ h3 {
         transition: none;
     }
 }
+
+.badge-soon {
+    display: inline-block;
+    padding: 3px 9px;
+    margin-left: 8px;
+    border-radius: 999px;
+    background: var(--brand-soft);
+    color: var(--brand-dark);
+    font-size: 0.68rem;
+    font-weight: 800;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.coming-soon-note {
+    color: var(--muted);
+    font-size: 0.92rem;
+    font-style: italic;
+}
