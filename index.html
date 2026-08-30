@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Eunexon entwickelt durchdachte, datensparsame Apps für iPhone und iPad.">
-    <title>Eunexon – Thoughtful apps for iPhone and iPad</title>
+    <title>Eunexon – Apps für iPhone und iPad</title>
     <link rel="stylesheet" href="/assets/styles.css">
     <link rel="icon" href="/assets/colorshapecode-icon.png">
 </head>
@@ -15,13 +15,13 @@
             <div class="nav-links">
                 <a href="#apps">Apps</a>
                 <a href="/apps/colorshapecode/support/">Support</a>
-                <a class="language-link" id="lang-toggle" href="#english">EN</a>
+                <a class="language-link" href="/en/">EN</a>
             </div>
         </nav>
     </header>
 
     <main>
-        <section class="hero" id="deutsch">
+        <section class="hero">
             <div>
                 <p class="eyebrow">Apps für iPhone und iPad</p>
                 <h1>Klare Ideen. Sorgfältig umgesetzt.</h1>
@@ -31,7 +31,6 @@
                 </p>
                 <div class="actions">
                     <a class="button primary" href="#apps">Apps entdecken</a>
-                    <a class="button" href="#english">Read in English</a>
                 </div>
             </div>
             <div class="hero-art hero-art-dual" aria-hidden="true">
@@ -81,52 +80,6 @@
                 </article>
             </div>
         </section>
-
-        <section class="section language-block" id="english" lang="en">
-            <div class="section-heading">
-                <p class="eyebrow">Apps for iPhone and iPad</p>
-                <h2>Clear ideas. Carefully built.</h2>
-                <p class="lead">
-                    Eunexon creates focused apps without advertising, tracking, or unnecessary
-                    complexity.
-                </p>
-            </div>
-            <div class="category-group">
-                <p class="category-label">Games</p>
-                <article class="card app-card">
-                    <img src="/assets/colorshapecode-icon.png" alt="ColorShapeCode app icon">
-                    <div>
-                        <h3>ColorShapeCode</h3>
-                        <p>
-                            Decode secret combinations of colors, shapes, and numbers. Featuring daily
-                            challenges, statistics, and worldwide Game Center leaderboards.
-                            Now available on the App Store.
-                        </p>
-                        <p class="app-card-actions">
-                            <a href="/apps/colorshapecode/#english">Discover ColorShapeCode</a>
-                            <a href="https://apps.apple.com/us/app/colorshapecode/id6773065302">Download on the App Store</a>
-                        </p>
-                    </div>
-                </article>
-            </div>
-            <div class="category-group">
-                <p class="category-label">Productivity</p>
-                <article class="card app-card">
-                    <img src="/assets/eunexon-pdf-icon.png" alt="Eunexon PDF app icon">
-                    <div>
-                        <h3>Eunexon PDF <span class="badge-soon">Coming Soon</span></h3>
-                        <p>
-                            View, annotate, merge, sign, watermark, and compress PDFs — fully offline, no cloud required.
-                            With an optional premium subscription for advanced features.
-                        </p>
-                        <p class="app-card-actions">
-                            <a href="/apps/eunexon-pdf/#english">Discover Eunexon PDF</a>
-                            <span class="coming-soon-note">Not yet available</span>
-                        </p>
-                    </div>
-                </article>
-            </div>
-        </section>
     </main>
 
     <footer class="site-footer">
@@ -139,20 +92,5 @@
             </div>
         </div>
     </footer>
-
-    <script>
-        var langToggle = document.getElementById("lang-toggle");
-        var englishSection = document.getElementById("english");
-
-        function updateLangToggle() {
-            var rect = englishSection.getBoundingClientRect();
-            var inEnglish = rect.top < window.innerHeight * 0.5;
-            langToggle.textContent = inEnglish ? "DE" : "EN";
-            langToggle.href = inEnglish ? "#deutsch" : "#english";
-        }
-
-        window.addEventListener("scroll", updateLangToggle, { passive: true });
-        updateLangToggle();
-    </script>
 </body>
 </html>
