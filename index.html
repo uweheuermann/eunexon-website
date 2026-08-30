@@ -15,7 +15,7 @@
             <div class="nav-links">
                 <a href="#apps">Apps</a>
                 <a href="/apps/colorshapecode/support/">Support</a>
-                <a class="language-link" href="#english">EN</a>
+                <a class="language-link" id="lang-toggle" href="#english">EN</a>
             </div>
         </nav>
     </header>
@@ -139,5 +139,22 @@
             </div>
         </div>
     </footer>
+
+    <script>
+        const langToggle = document.getElementById("lang-toggle");
+        const englishSection = document.getElementById("english");
+
+        const observer = new IntersectionObserver(function(entries) {
+            if (entries[0].isIntersecting) {
+                langToggle.textContent = "DE";
+                langToggle.href = "#deutsch";
+            } else {
+                langToggle.textContent = "EN";
+                langToggle.href = "#english";
+            }
+        }, { threshold: 0.1 });
+
+        observer.observe(englishSection);
+    </script>
 </body>
 </html>
