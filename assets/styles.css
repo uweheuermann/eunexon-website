@@ -284,6 +284,17 @@ h3 {
     scroll-snap-align: start;
 }
 
+.screenshot-link {
+    display: block;
+    border-radius: 26px;
+    cursor: zoom-in;
+}
+
+.screenshot-link:focus-visible {
+    outline: 3px solid var(--brand);
+    outline-offset: 4px;
+}
+
 .screenshot-gallery img {
     display: block;
     width: 100%;
