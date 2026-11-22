@@ -34,3 +34,12 @@ Empfohlene Einstellungen:
   `https://eunexon.com/apps/colorshapecode/privacy/`
 - Support-URL:
   `https://eunexon.com/apps/colorshapecode/support/`
+
+### Eunexon PDF
+
+- Datenschutzrichtlinien-URL: `https://eunexon.com/apps/eunexon-pdf/privacy/`
+  (Version 1.0 verlinkt in App und Store noch `https://www.eunexon.com/privacy`;
+  die Website-Datenschutzerklärung verweist deshalb oben auf die App-Seite.)
+- Support-URL: `https://eunexon.com/apps/eunexon-pdf/support/`
+- App-Store-Link (erst nach Veröffentlichung gültig):
+  `https://apps.apple.com/de/app/eunexon-pdf/id6837790845`
