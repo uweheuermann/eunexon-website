@@ -8,8 +8,8 @@ Datenbank oder JavaScript.
 1. In `imprint/index.html`, `privacy/index.html` und
    `apps/colorshapecode/privacy/index.html` alle orange markierten Platzhalter
    ersetzen.
-2. Sicherstellen, dass `support@eunexon.com` als Postfach oder Weiterleitung
-   existiert.
+2. ~~Sicherstellen, dass `support@eunexon.com` als Postfach oder Weiterleitung
+   existiert.~~ Erledigt: Das Postfach existiert (bestätigt am 22.11.2026).
 3. Nach Veröffentlichung alle Links über HTTPS testen.
 4. Nach Veröffentlichung alle App-Store-Links prüfen:
    `https://apps.apple.com/de/app/colorshapecode/id6773065302`
