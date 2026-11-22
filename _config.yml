@@ -1,0 +1,5 @@
+# GitHub Pages baut die Website mit Jekyll. Die HTML-Seiten haben keinen
+# Front-Matter-Vorspann und werden deshalb unverändert kopiert.
+# Interne Dateien, die nicht auf eunexon.com erscheinen sollen:
+exclude:
+  - README.md

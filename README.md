@@ -3,6 +3,10 @@
 Statische Website für `eunexon.com`. Sie benötigt weder WordPress noch eine
 Datenbank oder JavaScript.
 
+Diese README wird nicht veröffentlicht (`exclude` in `_config.yml`). Das Repo
+ist aber öffentlich — keine Zugangsdaten oder privaten Notizen hineinschreiben.
+Neue interne Dateien ebenfalls in `_config.yml` unter `exclude` eintragen.
+
 ## Vor der Veröffentlichung
 
 1. In `imprint/index.html`, `privacy/index.html` und
