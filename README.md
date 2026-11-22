@@ -1,7 +1,11 @@
 # Eunexon Website
 
 Statische Website für `eunexon.com`. Sie benötigt weder WordPress noch eine
-Datenbank oder JavaScript.
+Datenbank. **Kein fremdes JavaScript:** erlaubt sind nur kleine, eigene Skripte
+in `assets/` (derzeit `lightbox.js` für die Bildansicht der Galerien), die von
+dieser Website geladen werden, keine Daten senden und ohne die die Seite
+weiter funktioniert. Keine Analyse-, Werbe- oder Tracking-Dienste, keine
+Bibliotheken von fremden Servern — sonst muss die Datenschutzerklärung angepasst werden.
 
 Diese README wird nicht veröffentlicht (`exclude` in `_config.yml`). Das Repo
 ist aber öffentlich — keine Zugangsdaten oder privaten Notizen hineinschreiben.
